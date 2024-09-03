@@ -1,0 +1,8 @@
+slots 10
+park MP13ER2267 Black
+park 123 Green
+park juppy Red
+park blacky black
+find_all_reg_using_colour juppy
+find_all_slots_using_colour black
+find_all_car_using_colour black
